@@ -5,7 +5,7 @@ const ResumeButton =() => {
     return (
         <div class='resume-btn'>
         <a class="btn" href={resume}> Download Resume</a>
-        <a class="btn btn-primary" href=""> Reach Out</a>
+        <a class="btn btn-primary" href="#contact"> Reach Out</a>
         </div>
     )
 };
