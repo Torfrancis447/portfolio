@@ -44,7 +44,7 @@
 @media screen and (max-width: 1024px) {
     
 
-    .expereince-container {
+    .experience-container {
         grid-template-columns: 1fr;
     }
 
@@ -60,7 +60,7 @@
 }
 
 @media screen and (max-width: 600px) {
-    
+
     .experience-container {
         gap: 1rem;
     }
