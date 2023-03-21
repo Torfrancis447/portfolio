@@ -3,6 +3,7 @@ import { FaAward } from "react-icons/fa";
 import {FiUsers } from "react-icons/fi"
 import { VscFolderLibrary } from 'react-icons/vsc'
 import "./about.css";
+import headShot from "/home/tor-f/Development/code/my-projects/portfolio/src/assets/IMG_0479.jpg"
 
 const About = () => {
   return (
@@ -13,7 +14,7 @@ const About = () => {
         <div class="about-me">
           <div class="about-me-image">
 
-          {/* <img src="" alt="" /> */}
+          <img src={headShot} alt="Image" />
           </div>
         </div>
 
