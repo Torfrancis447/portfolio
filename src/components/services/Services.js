@@ -33,6 +33,34 @@ const Services = () => {
                             <BiCheck class="service-list-icon"/>
                             <p> put next project Ideas </p>
                         </li>
+                        {/* additional list */}
+                        <article class="service">
+                    <div class="service-head">
+                        <h3>UI/UX Design</h3>
+                    </div>
+                    <ul class="service-list">
+                        <li>
+                            <BiCheck class="service-list-icon"/>
+                            <p> put next project Ideas </p>
+                        </li>
+                        <li>
+                            <BiCheck class="service-list-icon"/>
+                            <p> put next project Ideas </p>
+                        </li>
+                        <li>
+                            <BiCheck class="service-list-icon"/>
+                            <p> put next project Ideas </p>
+                        </li>
+                        <li>
+                            <BiCheck class="service-list-icon"/>
+                            <p> put next project Ideas </p>
+                        </li>
+                        <li>
+                            <BiCheck class="service-list-icon"/>
+                            <p> put next project Ideas </p>
+                        </li>
+                    </ul>
+                </article>
                     </ul>
                 </article>
             </div>
